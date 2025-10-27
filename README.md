@@ -12,7 +12,7 @@
 💡 Passionate about **Full Stack Web Development (MERN)**  
 🚀 Love learning new technologies and building creative solutions  
 📫 **Reach me:** [srivaninarender4@gmail.com](mailto:srivaninarender4@gmail.com)
-📄 **My Resume:** [View Resume](./Srivani_Resume.pdf)
+📄 **My Resume:** [View Resume](./Srivani_Narender_Resume.pdf)
 
 ---
 
