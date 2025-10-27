@@ -11,7 +11,7 @@
 🏫 *Jayamukhi Institute of Technological Sciences*  
 💡 Passionate about **Full Stack Web Development (MERN)**  
 🚀 Love learning new technologies and building creative solutions  
-📫 **Reach me:** [your_email@example.com](mailto:your_email@example.com)  
+📫 **Reach me:** [srivaninarender4@gmail.com](mailto:srivaninarender4@gmail.com)
 📄 **My Resume:** [View Resume](./Srivani_Resume.pdf)
 
 ---
